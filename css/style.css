@@ -58,18 +58,6 @@ header .nav ul li a.atual{
     color: #235a25;
 }
 /*------------------------------------------*/
-/*----------------- Imagem de topo -----------------*/
-/*------------------------------------------*/
-.static-image-holder{
-    margin-top: 56px;
-}
-.static-image-holder img {
-    width: 100%;
-}
-.carousel{
-    margin-top: 56px;
-}
-/*------------------------------------------*/
 /*----------------- Conteúdo -----------------*/
 /*------------------------------------------*/
 
@@ -83,10 +71,6 @@ header .nav ul li a.atual{
     margin: 30px 0 30px;
 }
 .footer .footer-single img{
-    margin: 10px 10px;
-    display: inline-block;
-}
-.alternatingmotd p{
     margin: 10px 10px;
     display: inline-block;
 }
@@ -122,10 +106,7 @@ header .nav ul li a.atual{
 }
 
 /* PORTFOLIO PAGE */
-.card-img-top{
-    height: 250px;
-    object-fit: cover;
-}
+
 /* CONTACT PAGE */
 .contact-holder{
     margin: 30px 0 30px 0;
