@@ -34,3 +34,22 @@ TODO:
   #FAEBD7 - Moccasin<br>
   #FAF0E6 - Linen<br>
 </p>
+
+destacar linguagens aprendidas
+refazer textos
+
+HOME
+Texto - propósito do site
+Chamados - currículo completo;
+linguagens;
+Recomendações - breve destaque;
+contato no final da página
+
+CURRÍCULO
+Texto - objetivos profissionais
+formação - refazer os dropdowns para algo melhor
+cursos - mudar o nome do curso de C# para programming in c#
+linguagens - destacar linguagens em que eu sei desenvolver
+recomendações - pedir recomendação para o prof e citar ela.
+RODAPÉ
+botar contato no final
